@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikhilwankhedethecoder
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me You Can Use This Email ID To Contact Me
 thecode941@gmail.com
 
