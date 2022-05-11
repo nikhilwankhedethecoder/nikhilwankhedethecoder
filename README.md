@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilwankhedethecoder
 - 👀 I’m interested in Python And Web Development
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me 
 Here's My Email: wankhedenikhil637@gmail.com
 
